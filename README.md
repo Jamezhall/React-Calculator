@@ -1,3 +1,7 @@
+# React Calculator ➕➖✖➗
+
+Following along with [verything React — Calculator App!](https://medium.com/@danyal_imran/everything-react-first-app-188b33a880ca) and then making my own.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
